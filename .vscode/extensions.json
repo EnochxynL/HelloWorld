@@ -1,0 +1,74 @@
+{
+    "recommendations": [
+        // Text
+        "streetsidesoftware.code-spell-checker", // Spell Checker
+        "usernamehw.errorlens",
+        "ibm.output-colorizer",
+        "gruntfuggly.todo-tree",
+        "intellsmi.comment-translate",
+        
+        // Editor Enhancements
+        "eamodio.gitlens",
+        "ryu1kn.partial-diff",
+        "vscode-icons-team.vscode-icons",
+        "spencerwmiles.vscode-task-buttons",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+
+        // Copilot
+        "github.copilot",
+        "rooveterinaryinc.roo-cline",
+
+        // Development Environments
+        "platformio.platformio-ide", // PlatformIO IDE for IoT development
+        "ms-python.python", // Python support
+            "njqdev.vscode-python-typehint", // Python type hinting
+            "percy.vscode-pydata-viewer", // Python data viewer
+        "ms-vscode.cpptools-extension-pack",
+            "ms-vscode.makefile-tools",
+        "oracle.oracle-java",
+        "ms-dotnettools.dotnet-interactive-vscode", // .NET Interactive support
+        "ms-dotnettools.csharp", // C# support
+        "adelphes.android-dev-ext", // Android development
+        "mathworks.language-matlab",
+        "ranch-hand-robotics.rde-pack", // Robotics Development Extension Pack
+        "sterben.fpga-support", // FPGA Support Extension Pack
+        "james-yu.latex-workshop", // LaTeX support
+        "foam.foam-vscode", // Foam for note-taking and knowledge management
+            "yzhang.markdown-all-in-one", // Markdown support
+            "bierner.markdown-mermaid", // Mermaid diagrams in Markdown
+        "antfu.slidev", // Slidev for presentations
+
+        // Visualization
+        "alexnesnes.teleplot",
+        "adamwulkiewicz.graphicaldebugging-vscode",
+        "hediet.debug-visualizer",
+
+        // File Support
+        "redhat.vscode-xml",
+        "tomoki1207.pdf",
+        "optuna.optuna-dashboard",
+        "qwtel.sqlite-viewer",
+        "ms-vscode.hexeditor",
+        "ms-toolsai.datawrangler",
+        "pomdtr.excalidraw-editor",
+        "hediet.vscode-drawio", // Draw.io integration
+        "corschenzi.mermaid-graphical-editor",
+        "appliedengdesign.vscode-gcode-syntax",
+
+        // Management
+        "ms-azuretools.vscode-containers",
+        "github.vscode-github-actions",
+
+        // JavaScript/TypeScript
+        // "dbaeumer.vscode-eslint",
+        // "vue.volar",
+        // "codfrm.scriptcat-vscode",
+        // "donjayamanne.typescript-notebook",
+
+        /* // Decrepated
+        "jacksonjim.keil-vscode-assistant",
+        "orangex4.latex-sympy-calculator",
+        "badlogicgames.serial-plotter",
+        */
+    ]
+}
