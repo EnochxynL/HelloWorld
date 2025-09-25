@@ -26,8 +26,7 @@
         "ms-vscode.cpptools-extension-pack",
             "ms-vscode.makefile-tools",
         "oracle.oracle-java",
-        "ms-dotnettools.dotnet-interactive-vscode", // .NET Interactive support
-        "ms-dotnettools.csharp", // C# support
+        "ms-dotnettools.vscode-dotnet-pack", // .NET development
         "adelphes.android-dev-ext", // Android development
         "mathworks.language-matlab",
         "ranch-hand-robotics.rde-pack", // Robotics Development Extension Pack
