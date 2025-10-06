@@ -31,6 +31,8 @@
         "mathworks.language-matlab",
         "ranch-hand-robotics.rde-pack", // Robotics Development Extension Pack
         "sterben.fpga-support", // FPGA Support Extension Pack
+        "ms-vscode.powershell", // PowerShell support
+        "rogalmic.bash-debug", // Bash debugging
         "james-yu.latex-workshop", // LaTeX support
         "foam.foam-vscode", // Foam for note-taking and knowledge management
             "yzhang.markdown-all-in-one", // Markdown support
@@ -65,9 +67,12 @@
         // "donjayamanne.typescript-notebook",
 
         /* // Decrepated
+        "pibcht.pack-core",
         "jacksonjim.keil-vscode-assistant",
         "orangex4.latex-sympy-calculator",
         "badlogicgames.serial-plotter",
+        "grapecity.gc-excelviewer",
+        "hyeon.c-math-viewer",
         */
     ]
 }
